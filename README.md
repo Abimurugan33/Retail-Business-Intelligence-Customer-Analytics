@@ -1,4 +1,4 @@
-**🛍️ Retail Business Intelligence & Customer Analytics (SQL Project)**
+### **🛍️ Retail Business Intelligence & Customer Analytics (SQL Project)**
 
 **📌 Overview**
 
