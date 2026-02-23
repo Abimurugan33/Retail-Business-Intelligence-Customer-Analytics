@@ -1,11 +1,12 @@
-###🛍️ Retail Business Intelligence & Customer Analytics (SQL Project)
-📌 Overview
+**🛍️ Retail Business Intelligence & Customer Analytics (SQL Project)**
+
+**📌 Overview**
 
 This project analyzes a **retail business dataset using SQL** to generate insights on sales performance, customer behavior, and product trends.
 
 The goal is to transform raw transactional data into clear, actionable business insights.
 
-###**📂 Dataset Tables**
+**📂 Dataset Tables**
 
 The project uses five main tables:
 
@@ -19,11 +20,11 @@ order_items – Quantity and unit price details
 
 sales_target – Monthly sales targets
 
-###***🎯 Project Goal**
+***🎯 Project Goal**
 
 To evaluate revenue trends, customer engagement, and product performance using SQL queries and analytical techniques.
 
-###**🛠️ Process Followed**
+**🛠️ Process Followed**
 
 Reviewed table relationships and keys
 
@@ -37,7 +38,8 @@ Used window functions like RANK() and LAG()
 
 Performed month, week, and state-based analysis
 
-###**📊 Key Insights**
+**📊 Key Insights**
+
 **📅 Sales Trends**
 
 November recorded the highest revenue.
@@ -70,7 +72,7 @@ A small percentage of products contribute a large share of revenue (80/20 rule).
 
 Some products show high return rates.
 
-###**🚀 Skills Demonstrated**
+**🚀 Skills Demonstrated**
 
 SQL Joins
 
@@ -82,6 +84,6 @@ KPI Calculation
 
 Business Insight Generation
 
-###**📌 Conclusion**
+**📌 Conclusion**
 
 This project demonstrates how SQL can be used to analyze retail data and support data-driven business decisions. It highlights sales performance, customer behavior, and product profitability in a structured and practical way.
