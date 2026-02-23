@@ -8,17 +8,13 @@ The goal is to transform raw transactional data into clear, actionable business 
 
 **📂 Dataset Tables**
 
-The project uses five main tables:
-
-customer – Customer details (id, city, state, join date)
-
-products – Product details (category, brand, price)
-
-orders – Order information (date, status)
-
-order_items – Quantity and unit price details
-
-sales_target – Monthly sales targets
+| Table        | Description                       | Primary Key            | Key Columns                  |
+| ------------ | --------------------------------- | ---------------------- | ---------------------------- |
+| customer     | Customer details                  | customer_id            | name, city, state, join_date |
+| products     | Product information               | product_id             | name, category, brand, price |
+| orders       | Order-level details               | order_id               | date, status                 |
+| order_items  | Product-level transaction details | (order_id, product_id) | unit_price, quantity         |
+| sales_target | Monthly sales targets             | (year, month)          | target_sales                 |
 
 ***🎯 Project Goal**
 
