@@ -22,51 +22,59 @@ To evaluate revenue trends, customer engagement, and product performance using S
 
 **🛠️ Process Followed**
 
-Reviewed table relationships and keys
+-Reviewed table relationships and keys
 
-Checked for NULL values and duplicates
+-Checked for NULL values and duplicates
 
-Used JOINS to combine tables
+-Used JOINS to combine tables
 
-Applied SUM(), AVG(), COUNT() for metrics
+-Applied SUM(), AVG(), COUNT() for metrics
 
-Used window functions like RANK() and LAG()
+-Used window functions like RANK() and LAG()
 
-Performed month, week, and state-based analysis
+-Performed month, week, and state-based analysis
 
 **📊 Key Insights**
 
 **📅 Sales Trends**
 
-November recorded the highest revenue.
+| Area                  | Key Insight                                                         |
+| --------------------- | ------------------------------------------------------------------- |
+| Monthly Revenue       | November recorded the highest revenue.                              |
+| Peak Day              | Saturday generates the highest sales.                               |
+| Target Achievement    | 2023 showed fluctuations; some months overachieved targets.         |
+| Revenue Concentration | Small % of products contribute major share of revenue (80/20 rule). |
 
-Saturday is the strongest sales day.
-
-Sales performance fluctuated across months.
 
 **🌍 State Performance**
 
-MH generated the highest total revenue.
+| Area                   | Key Insight                                          |
+| ---------------------- | ---------------------------------------------------- |
+| Highest Revenue State  | MH generated the highest total revenue.              |
+| Revenue per Customer   | TN shows strong revenue per customer.                |
+| Underperforming Region | WB records comparatively lower revenue per customer. |
+| Category Preference    | Sports leads in most states; Fashion leads in MH.    |
 
-TN shows strong revenue per customer.
-
-Some states show lower performance despite having customers.
 
 **👥 Customer Insights**
 
-Most customers purchased only once.
+| Area                 | Key Insight                                                |
+| -------------------- | ---------------------------------------------------------- |
+| Purchase Frequency   | Most customers purchased only once.                        |
+| High-Value Customers | Few customers contribute significantly higher revenue.     |
+| Inactive Customers   | Many customers inactive for 90+ days.                      |
+| Revenue Source       | New customers generate more revenue than repeat customers. |
 
-Many high-value customers are currently inactive.
-
-New customers contribute more revenue than repeat customers.
 
 **📦 Product Insights**
 
-Sports category generates the highest revenue.
+| Area                  | Key Insight                                                          |
+| --------------------- | -------------------------------------------------------------------- |
+| Top Category          | Sports generates highest revenue and profit.                         |
+| High Revenue Products | Some products earn high revenue with low quantity (premium pricing). |
+| Return Analysis       | Several products show high return rates.                             |
+| Cross-Selling         | Weak association between most product pairs.                         |
 
-A small percentage of products contribute a large share of revenue (80/20 rule).
-
-Some products show high return rates.
 
 **🚀 Skills Demonstrated**
 
