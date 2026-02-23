@@ -22,17 +22,17 @@ To evaluate revenue trends, customer engagement, and product performance using S
 
 **🛠️ Process Followed**
 
--Reviewed table relationships and keys
+- Reviewed table relationships and keys
 
--Checked for NULL values and duplicates
+- Checked for NULL values and duplicates
 
--Used JOINS to combine tables
+- Used JOINS to combine tables
 
--Applied SUM(), AVG(), COUNT() for metrics
+- Applied SUM(), AVG(), COUNT() for metrics
 
--Used window functions like RANK() and LAG()
+- Used window functions like RANK() and LAG()
 
--Performed month, week, and state-based analysis
+- Performed month, week, and state-based analysis
 
 **📊 Key Insights**
 
@@ -78,15 +78,15 @@ To evaluate revenue trends, customer engagement, and product performance using S
 
 **🚀 Skills Demonstrated**
 
-SQL Joins
+- SQL Joins
 
-Aggregations
+- Aggregations
 
-Window Functions
+- Window Functions
 
-KPI Calculation
+- KPI Calculation
 
-Business Insight Generation
+- Business Insight Generation
 
 **📌 Conclusion**
 
